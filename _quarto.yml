@@ -1,0 +1,10 @@
+project:
+  type: website
+  title: "Data Exploration with Tash"
+
+website:
+  title: "Data Exploration with Tash"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd  # Or 'blog.qmd' if that's your homepage file

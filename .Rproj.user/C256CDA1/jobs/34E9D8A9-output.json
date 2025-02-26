@@ -1,0 +1,4 @@
+[1,"==> quarto preview index.qmd --to default --no-watch-inputs --no-browse\n\n"]
+[1,"WARN: The listing in 'index.qmd' using the following contents:\n- posts\ndoesn't match any files or folders.\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: Data Exploration with Tash\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  title: Hello and Welcome\n  listing:\n    contents: posts\n    sort: date desc\n    type: default\n    categories: true\n    sort-ui: false\n    filter-ui: false\n  page-layout: full\n  title-block-banner: true\n  \n"]
+[1,"Output created: _site\\index.html\n\nWatching files for changes\nBrowse at http://localhost:5100/index.html\n"]
